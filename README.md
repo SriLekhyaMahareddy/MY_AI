@@ -46,7 +46,7 @@ MY_AI is an AI assistant that performs a variety of tasks based on voice command
 
     Replace the placeholder `Authorization` token in the code with your actual token.
 
-## Here the files 'data.txt' stores data that has to be remembered by my_ai ,song.py file is imported into my_ai,image.png stores the picture we took screenshot of.
+7. Here the files 'data.txt' stores data that has to be remembered by my_ai ,song.py file is imported into my_ai,image.png stores the picture we took screenshot of.
 
 ## Usage Instructions
 
